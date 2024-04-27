@@ -6,7 +6,7 @@ Somos **ChatMinds**, una startup innovadora emergente de la Universidad Peruana 
 
 - Eduardo Renato Ventura Chancafe
 - Luis Fernando Reyes Huaman
-- Joan Jefferson
+- Joan Jefferson Talizo Balbin
 - Sebastian Valente Lobato Pozo
 - Joshep Giovani Aquino Gutiérrez
 
